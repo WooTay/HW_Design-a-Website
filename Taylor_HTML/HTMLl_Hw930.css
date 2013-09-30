@@ -12,6 +12,11 @@ margin-right:auto;
 width:70%;
 }
 
+h1 {
+font-family: Arial Rounded MT Bold;
+Font-weight: bold;
+Font-size 30px;
+}
 	
 .Box2, .Box3, .Box4 {
 	background-color: #FCDFFF;
