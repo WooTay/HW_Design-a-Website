@@ -3,8 +3,8 @@ html {
 	}
 	
 .Box1, .Box2, .Box3 {
-	background-color: #800000;
-	height: 300px;
-	width: 300px;
-	border: 15px solid #FF0000;
+	background-color: #FCDFFF;
+	height: 200px;
+	width: 600px;
+	border: 10px solid White;
 	}
