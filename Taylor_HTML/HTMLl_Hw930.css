@@ -14,8 +14,9 @@ width:70%;
 
 h1 {
 font-family: Arial Rounded MT Bold;
-Font-weight: bold;
-Font-size 30px;
+font-weight: bold;
+font-size 500px;
+text-align: center;
 }
 	
 .Box2, .Box3, .Box4 {
@@ -25,6 +26,4 @@ Font-size 30px;
 	border: 10px solid White;
 	float: left;
 	margin: 10px;
-	
-	
 	}
