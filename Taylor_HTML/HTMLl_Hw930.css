@@ -7,6 +7,9 @@ background-color: #FFD801;
 height: 200px;
 width: 600px; 
 border:10px solid white;
+margin-left:auto;
+margin-right:auto;
+width:70%;
 }
 
 	
@@ -15,4 +18,5 @@ border:10px solid white;
 	height: 600px;
 	width: 200px;
 	border: 10px solid White;
+	float: right;
 	}
