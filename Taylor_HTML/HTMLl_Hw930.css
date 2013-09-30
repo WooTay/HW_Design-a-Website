@@ -2,9 +2,17 @@ html {
 	background-image:url(double-bubble-indvgum.jpg);
 	}
 	
-.Box1, .Box2, .Box3 {
+.Box1 {
+background-color: #FFD801;
+height: 200px;
+width: 600px; 
+border:10px solid white;
+}
+
+	
+.Box2, .Box3, .Box4 {
 	background-color: #FCDFFF;
-	height: 200px;
-	width: 600px;
+	height: 600px;
+	width: 200px;
 	border: 10px solid White;
 	}
