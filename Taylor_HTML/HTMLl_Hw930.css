@@ -3,20 +3,20 @@ html {
 	}
 	
 .Box1 {
-background-color: #FFD801;
-height: 200px;
-width: 600px; 
-border:10px solid white;
-margin-left:auto;
-margin-right:auto;
-width:70%;
+	background-color: #FFD801;
+	height: 200px;
+	width: 600px; 
+	border:10px solid white;
+	margin-left:auto;
+	margin-right:auto;
+	width:70%;
 }
 
 h1 {
-font-family: Arial Rounded MT Bold;
-font-weight: bold;
-font-size: 100px;
-text-align: center;
+	font-family: Arial Rounded MT Bold;
+	font-weight: bold;
+	font-size: 100px;
+	text-align: center;
 }
 	
 .Box2, .Box3, .Box4 {
@@ -26,4 +26,13 @@ text-align: center;
 	border: 10px solid White;
 	float: left;
 	margin: 25px;
+	}
+
+h2 {
+	font-family: Arial Rounded MT Bold;
+	}
+	
+p {
+	font-family: Franklin Gothic Medium;
+	font-size: 14.5px;
 	}
