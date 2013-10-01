@@ -53,14 +53,15 @@ font-family: Arial Rounded MT Bold;
 .BaseballBubbleGum {
 	background-color: #FCDFFF;
 	height: 100px;
-	width: 100px;
+	width: 550px;
 	border: 5px solid White;
-	float: left;
+	float: right;
+	padding: 5px;
 	}
 
 .Box5 {
 	background-color: #FCDFFF;
-	height: 500px;
+	height: 400px;
 	width: 600px;
 	border: 10px solid White;
 	margin-left:auto;
@@ -71,6 +72,24 @@ font-family: Arial Rounded MT Bold;
 	top:950px;
 	padding: 20px; 
 	}
+	
+.credit {
+	background-color: #FCDFFF;
+	height: 45px;
+	width: 300px;
+	border: 5px solid White;
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	width:70%;
+	margin-top: 75px;
+	}
+	
+h4 {
+	font-family: Arial Rounded MT Bold;
+	}
+
+
 	
 	
 	
