@@ -12,6 +12,14 @@ html {
 	width:70%;
 }
 
+#nav {
+	background-color: white;
+	height: 50px;
+	width: 50px; 
+	border:10px solid #FCDFFF;
+	}
+
+
 h1 {
 	font-family: Arial Rounded MT Bold;
 	font-weight: bold;
