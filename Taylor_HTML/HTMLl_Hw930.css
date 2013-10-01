@@ -41,3 +41,10 @@ ul {
 	font-family: Franklin Gothic Medium;
 	font-size: 14.5px;
 	}
+	
+.imageLarge {
+	hight:300px;
+	width: 600px;
+	border: 10px solid #FCDFFF;
+	margin: 25px;
+	}
