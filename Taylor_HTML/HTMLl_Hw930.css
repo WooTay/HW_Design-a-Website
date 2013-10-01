@@ -13,10 +13,12 @@ html {
 }
 
 #nav {
-	background-color: white;
-	height: 50px;
-	width: 50px; 
-	border:10px solid #FCDFFF;
+	background-color: #FFD801;
+	height: 150px;
+	width: 150px; 
+	border:10px solid white;
+	float: right;
+	margin-top: -220px;
 	}
 
 
