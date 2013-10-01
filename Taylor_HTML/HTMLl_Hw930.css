@@ -43,8 +43,33 @@ ul {
 	}
 	
 .imageLarge {
-	hight:300px;
-	width: 600px;
-	border: 10px solid #FCDFFF;
 	margin: 25px;
 	}
+	
+h3 {	
+font-family: Arial Rounded MT Bold;
+}
+
+.BaseballBubbleGum {
+	background-color: #FCDFFF;
+	height: 50px;
+	width: 50px;
+	border: 5px solid White;
+	font-color: white;
+	}
+
+.Box5 {
+	background-color: #FCDFFF;
+	height: 300px;
+	width: 600px;
+	border: 10px solid White;
+	margin:25px;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
